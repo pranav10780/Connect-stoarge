@@ -5,6 +5,8 @@ A better alternative to termux-setup-storage
 Ensure that your termux app has necessary permission(storage) enabled  
 
 # Installation  
-git clone   
+git clone https://github.com/pranav10780/Connect-stoarge/  
 
-python connect_storage.py
+cd Connect-stoarge/  
+
+python connect_storage.py  
